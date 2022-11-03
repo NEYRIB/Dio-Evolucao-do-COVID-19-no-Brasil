@@ -33,6 +33,5 @@ Projeto feito para entrega de desafio de código no bootcamp Geração Tech Unim
         - Tendencia
         - Sazonalidade
         - Ruido
-    - Previsão do Crescimento das infeccoTaes usando o ARIMA
-    - Previsão do momento de estabilizacao da COVID usando a biblioteca do Facebook fbprophet
+    - Previsão do Crescimento das infeções usando o ARIMA
 Python / Machine Learning / Git
